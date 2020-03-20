@@ -9,3 +9,5 @@
 	st = status
 	up = push
 	dn = pull
+
+"*.class file is a file containing Java bytecode that can be executed on the Java Virtual Machine (JVM)"
