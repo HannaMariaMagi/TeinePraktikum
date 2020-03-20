@@ -2,7 +2,6 @@
 	editor = \"C:\\Users\\Hanna\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
 [user]
 	email = hanna.maria.m2gi@gmail.com
-	name = Hanna
 [alias]
 	co = checkout
 	ci = commit
